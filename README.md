@@ -1,6 +1,7 @@
 # Scientific Computing 2024
-Scientific Computing is an extra course I teach at the JetBrains and Constructor
-University (Bremen) Software, Data and Technology bachelor probgram in fall
+Scientific Computing is an extra course I teach at the [JetBrains](http://jetbrains.com) and [Constructor
+University](https://constructor.university) (Bremen) [Software, Data and
+Technology](https://lp.jetbrains.com/software-data-and-technology-constructor-university/) bachelor probgram in fall
 semester of 2024-25 academic year. This repository will contain materials of the
 course (lecture notes, notebooks), available under MIT license.
 
