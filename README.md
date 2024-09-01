@@ -70,7 +70,7 @@ linear system.
 ### Optimization
 
 Theory recap: optimization of function of one variable, conditional
-optimization, lagrange multipliers. Numeric optimization of function of
+optimization, Lagrange multipliers. Numeric optimization of function of
 several variables. Gradient descent. Example: gradient descent near a
 minimum with ill-conditioned Hessian. Newton's method. Optimization of
 matrix-vector functions. Optimization out of the box: `scipy.optim`.
