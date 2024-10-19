@@ -1,0 +1,83 @@
+#############################
+# Font settings
+#############################
+text.usetex: false
+font.family: serif
+font.serif: Times New Roman
+font.size: 14
+axes.labelsize: 14
+axes.titlesize: 14
+xtick.labelsize: 14
+ytick.labelsize: 14
+legend.fontsize: 8
+figure.titlesize: 14
+
+#############################
+# Math text settings
+#############################
+mathtext.fontset: custom
+mathtext.rm: Times New Roman
+mathtext.it: Times New Roman:italic
+mathtext.bf: Times New Roman:bold
+
+#############################
+# Line and marker settings
+#############################
+lines.linewidth: 1
+lines.markersize: 4
+
+#############################
+# Figure settings
+#############################
+figure.figsize: 3.25, 2.5  # Single-column figure size in inches
+figure.dpi: 300
+figure.autolayout: True
+figure.facecolor: none       # Set figure background to white
+savefig.facecolor: none      # Set saved figure background to white
+savefig.edgecolor: none      # Set saved figure edge color to white
+
+#############################
+# Axes settings
+#############################
+axes.linewidth: 1
+axes.spines.top: false
+axes.spines.right: false
+axes.facecolor: none         # Set axes background to white
+axes.edgecolor: black         # Set axes edge color to black
+axes.labelcolor: black        # Set axes label color to black
+
+#############################
+# Tick settings
+#############################
+xtick.direction: out
+ytick.direction: out
+xtick.major.size: 6
+ytick.major.size: 6
+xtick.major.width: 1
+ytick.major.width: 1
+xtick.minor.size: 3
+ytick.minor.size: 3
+xtick.minor.width: 1
+ytick.minor.width: 1
+xtick.color: black            # Set x-tick color to black
+ytick.color: black            # Set y-tick color to black
+
+#############################
+# Text settings
+#############################
+text.color: black             # Set default text color to black
+
+#############################
+# Legend settings
+#############################
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+legend.handlelength: 1
+legend.handletextpad: 0.4
+legend.columnspacing: 1.0
+
+#############################
+# Color cycle (optional)
+#############################
+axes.prop_cycle: cycler('color', ['AF1DF5', 'FC801D','21D789', 'FE2857', 'FCF84A', '6B57FF', 'FDB60D', '000000', '7D7D7D', 'CDCDCD', 'DD1265', 'FF318C', 'FF45ED', '087CFA', '07C3F2', '3DEA62'])
